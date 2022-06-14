@@ -1,5 +1,5 @@
-# tin-dog
-https://dikshatomarr.github.io/tin-dog/
+# tindog
+https://dikshatomarr.github.io/tindog/
 ![image](https://user-images.githubusercontent.com/91546745/170838515-47d262e5-fe13-4577-8e9f-58f05f4754c4.png)
 
 
